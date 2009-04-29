@@ -1,0 +1,12 @@
+
+This contains an adaptation of Tomi Valkeinen's MonoCo to use the
+version of the Continuations API that was introduced into Mono as
+Mono.Tasklets.
+
+The original MonoCo lives here:
+
+    http://www.bat.org/~tomba/monoco.html
+
+Mono.Tasklets was inspired in the implementation from Tomi that the
+Mono team will be maintaining in Mono's code base.
+
